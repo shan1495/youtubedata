@@ -7,3 +7,9 @@ Streamlit
 MongoDB
 MySQL
 VS (IDE)
+
+Steps to run:
+Clone the project
+navigate to the project folder
+execute 'streamlit run Home.py'
+Prerequieste: Before executing this, get the youTube API client credentials and API code. Place the file in that project folder. 
